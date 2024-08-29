@@ -1,6 +1,3 @@
-Here is a comprehensive README file for your E-library project in Markdown format:
-
-````markdown
 # E-Library
 
 E-Library is a web application designed to help users keep a clear and concise record of the books they read. The project is part of The Odin Project's JavaScript curriculum and showcases the use of HTML, CSS, JavaScript, and the Swiper library to create a user-friendly and interactive book management system.
@@ -58,6 +55,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Ozioma45/E-library_Odin
    ```
+
 ````
 
 2. Navigate to the project directory:
@@ -107,3 +105,4 @@ This project is open-source and available under the MIT License. See the [LICENS
 - [Bootstrap](https://getbootstrap.com/): For the responsive UI components.
 - [Swiper](https://swiperjs.com/): For the interactive carousel slider.
 - [Google Fonts](https://fonts.google.com/): For the font used in the application.
+````

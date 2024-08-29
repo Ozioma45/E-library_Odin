@@ -55,9 +55,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Ozioma45/E-library_Odin
    ```
-
-````
-
 2. Navigate to the project directory:
    ```bash
    cd e-library
@@ -105,4 +102,5 @@ This project is open-source and available under the MIT License. See the [LICENS
 - [Bootstrap](https://getbootstrap.com/): For the responsive UI components.
 - [Swiper](https://swiperjs.com/): For the interactive carousel slider.
 - [Google Fonts](https://fonts.google.com/): For the font used in the application.
-````
+
+---
